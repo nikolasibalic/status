@@ -18,9 +18,6 @@ sites:
   - name: Carte Event
     url: https://www.carteevent.com/
     maxResponseTime: 1000
-  - name: Carte Event map
-    url: https://map.carteevent.com/13/4147/2819.png
-    maxResponseTime: 1000
   - name: Roundtable
     url: https://roundtable.researchx3d.com/
     maxResponseTime: 1000
