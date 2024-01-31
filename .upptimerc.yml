@@ -5,16 +5,22 @@ repo: status # The name of this repository
 sites:
   - name: Atom Calculator
     url: https://atomcalc.org
+    maxResponseTime: 2000
   - name: LabBricks
     url: https://labbricks.com
+    maxResponseTime: 1000
   - name: Science Web Services - QState
     url: https://sws.labbricks.com/qstate/
+    maxResponseTime: 1000
   - name: ResearchX3D
     url: https://researchx3d.com
+    maxResponseTime: 1000
   - name: Carte Event
     url: https://www.carteevent.com/
+    maxResponseTime: 1000
   - name: Roundtable
     url: https://roundtable.researchx3d.com/
+    maxResponseTime: 1000
 
 
 status-website:
@@ -31,6 +37,20 @@ status-website:
       href: https://nikolasibalic.github.io
     - title: GitHub
       href: https://github.com/nikolasibalic
+  theme: light
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+
+
+assignees:
+  - nikolasibalic
+  
+workflowSchedule:
+  graphs: "0 0 * * *"
+  responseTime: "0 23 * * *"
+  staticSite: "0 1 * * *"
+  summary: "0 0 * * *"
+  updateTemplate: "0 0 * * *"
+  updates: "0 3 * * *"
+  uptime: "*/20 * * * *"
