@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 706,
     "timeDay": 911,
-    "timeWeek": 706,
+    "timeWeek": 699,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 396,
     "timeDay": 582,
-    "timeWeek": 396,
+    "timeWeek": 418,
     "timeMonth": 396,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -40,18 +40,20 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 510,
-    "timeDay": 711,
-    "timeWeek": 510,
-    "timeMonth": 510,
-    "timeYear": 510,
-    "dailyMinutesDown": {}
+    "time": 511,
+    "timeDay": 617,
+    "timeWeek": 523,
+    "timeMonth": 511,
+    "timeYear": 511,
+    "dailyMinutesDown": {
+      "2024-02-07": 0
+    }
   },
   {
     "name": "ResearchX3D",
@@ -66,7 +68,7 @@
     "uptimeYear": "100.00%",
     "time": 909,
     "timeDay": 1411,
-    "timeWeek": 909,
+    "timeWeek": 1024,
     "timeMonth": 909,
     "timeYear": 909,
     "dailyMinutesDown": {}
@@ -84,7 +86,7 @@
     "uptimeYear": "100.00%",
     "time": 367,
     "timeDay": 488,
-    "timeWeek": 367,
+    "timeWeek": 371,
     "timeMonth": 367,
     "timeYear": 367,
     "dailyMinutesDown": {}
@@ -102,7 +104,7 @@
     "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 537,
-    "timeWeek": 395,
+    "timeWeek": 407,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {}
