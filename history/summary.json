@@ -22,19 +22,19 @@
     "url": "https://labbricks.com",
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 396,
-    "timeDay": 582,
-    "timeWeek": 418,
-    "timeMonth": 396,
-    "timeYear": 396,
+    "status": "up",
+    "uptime": "99.29%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
+    "time": 390,
+    "timeDay": 450,
+    "timeWeek": 405,
+    "timeMonth": 390,
+    "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-02-07": 1
+      "2024-02-07": 72
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
     "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.04%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.17%",
+    "uptimeDay": "94.06%",
+    "uptimeWeek": "99.15%",
+    "uptimeMonth": "99.17%",
+    "uptimeYear": "99.17%",
     "time": 511,
     "timeDay": 617,
     "timeWeek": 523,
     "timeMonth": 511,
     "timeYear": 511,
     "dailyMinutesDown": {
-      "2024-02-07": 14
+      "2024-02-07": 86
     }
   },
   {
