@@ -22,11 +22,11 @@
     "url": "https://labbricks.com",
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.76%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "99.76%",
     "time": 483,
     "timeDay": 531,
@@ -34,6 +34,7 @@
     "timeMonth": 508,
     "timeYear": 483,
     "dailyMinutesDown": {
+      "2024-03-03": 1,
       "2024-02-28": 17,
       "2024-02-07": 90
     }
@@ -43,9 +44,9 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.77%",
@@ -55,6 +56,7 @@
     "timeMonth": 528,
     "timeYear": 524,
     "dailyMinutesDown": {
+      "2024-03-03": 0,
       "2024-02-07": 104
     }
   },
