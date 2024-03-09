@@ -104,17 +104,17 @@
     "url": "https://roundtable.researchx3d.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roundtable.researchx3d.com.ico",
     "slug": "roundtable",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.95%",
-    "time": 391,
-    "timeDay": 356,
-    "timeWeek": 381,
-    "timeMonth": 385,
-    "timeYear": 391,
+    "time": 393,
+    "timeDay": 430,
+    "timeWeek": 395,
+    "timeMonth": 389,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2024-03-06": 28
     }
