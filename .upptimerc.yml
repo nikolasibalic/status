@@ -42,7 +42,7 @@ status-website:
 
 
 assignees:
-  - nikolasibalic
+  - upptime-bot
   
 workflowSchedule:
   graphs: "0 0 * * *"
