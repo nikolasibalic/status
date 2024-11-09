@@ -1,7 +1,7 @@
 url: https://sws.labbricks.com/qstate/
-status: up
-code: 200
-responseTime: 726
-lastUpdated: 2024-11-09T00:34:11.764Z
+status: degraded
+code: 523
+responseTime: 1598
+lastUpdated: 2024-11-09T14:23:02.758Z
 startTime: 2024-01-31T19:55:47.124Z
 generator: Upptime <https://github.com/upptime/upptime>
