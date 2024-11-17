@@ -1,7 +1,7 @@
 url: https://labbricks.com
-status: up
-code: 200
-responseTime: 568
-lastUpdated: 2024-11-16T23:18:35.495Z
+status: degraded
+code: 523
+responseTime: 3208
+lastUpdated: 2024-11-17T13:13:11.175Z
 startTime: 2024-01-31T19:55:46.575Z
 generator: Upptime <https://github.com/upptime/upptime>
