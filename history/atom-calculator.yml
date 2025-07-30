@@ -1,7 +1,7 @@
 url: https://atomcalc.org
-status: up
-code: 200
-responseTime: 522
-lastUpdated: 2025-07-29T23:21:36.477Z
+status: degraded
+code: 522
+responseTime: 19610
+lastUpdated: 2025-07-30T13:04:07.873Z
 startTime: 2024-01-31T19:55:45.598Z
 generator: Upptime <https://github.com/upptime/upptime>
