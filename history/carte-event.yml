@@ -1,7 +1,7 @@
 url: https://www.carteevent.com/
-status: degraded
+status: up
 code: 200
-responseTime: 19765
-lastUpdated: 2026-02-04T18:04:40.420Z
+responseTime: 500
+lastUpdated: 2026-02-04T19:07:49.494Z
 startTime: 2024-01-31T19:55:48.994Z
 generator: Upptime <https://github.com/upptime/upptime>
