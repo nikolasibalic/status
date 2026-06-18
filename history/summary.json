@@ -4,13 +4,13 @@
     "url": "https://atomcalc.org",
     "icon": "https://icons.duckduckgo.com/ip3/atomcalc.org.ico",
     "slug": "atom-calculator",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.91%",
-    "time": 1079,
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "98.75%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.90%",
+    "time": 1080,
     "timeDay": 1240,
     "timeWeek": 1019,
     "timeMonth": 992,
@@ -23,7 +23,8 @@
       "2025-10-02": 52,
       "2025-11-18": 128,
       "2025-11-20": 17,
-      "2026-02-25": 57
+      "2026-02-25": 57,
+      "2026-06-18": 18
     }
   },
   {
@@ -31,17 +32,17 @@
     "url": "https://labbricks.com",
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.04%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "98.13%",
-    "time": 853,
-    "timeDay": 500,
-    "timeWeek": 456,
-    "timeMonth": 448,
-    "timeYear": 1013,
+    "time": 930,
+    "timeDay": 22628,
+    "timeWeek": 5994,
+    "timeMonth": 1833,
+    "timeYear": 1120,
     "dailyMinutesDown": {
       "2025-08-03": 937,
       "2025-08-02": 526,
@@ -68,7 +69,8 @@
       "2026-02-23": 57,
       "2026-03-24": 47,
       "2026-05-17": 837,
-      "2026-05-16": 997
+      "2026-05-16": 997,
+      "2026-06-18": 17
     }
   },
   {
@@ -76,11 +78,11 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "up",
+    "status": "down",
     "uptime": "97.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "98.13%",
     "time": 866,
     "timeDay": 652,
@@ -112,7 +114,8 @@
       "2026-03-24": 46,
       "2026-04-30": 92,
       "2026-05-17": 837,
-      "2026-05-16": 996
+      "2026-05-16": 996,
+      "2026-06-18": 10
     }
   },
   {
@@ -120,11 +123,11 @@
     "url": "https://researchx3d.com",
     "icon": "https://icons.duckduckgo.com/ip3/researchx3d.com.ico",
     "slug": "research-x3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "98.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.18%",
     "time": 898,
     "timeDay": 538,
@@ -152,7 +155,8 @@
       "2026-01-31": 1440,
       "2026-01-30": 258,
       "2026-05-17": 837,
-      "2026-05-16": 994
+      "2026-05-16": 994,
+      "2026-06-18": 3
     }
   },
   {
@@ -160,17 +164,17 @@
     "url": "https://www.carteevent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carteevent.com.ico",
     "slug": "carte-event",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.13%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "98.17%",
-    "time": 757,
-    "timeDay": 627,
-    "timeWeek": 462,
-    "timeMonth": 456,
-    "timeYear": 864,
+    "time": 780,
+    "timeDay": 7139,
+    "timeWeek": 2111,
+    "timeMonth": 868,
+    "timeYear": 896,
     "dailyMinutesDown": {
       "2025-08-03": 937,
       "2025-08-02": 526,
@@ -191,7 +195,8 @@
       "2026-01-30": 256,
       "2026-02-04": 63,
       "2026-05-17": 837,
-      "2026-05-16": 993
+      "2026-05-16": 993,
+      "2026-06-18": 2
     }
   },
   {
@@ -199,17 +204,17 @@
     "url": "https://roundtable.researchx3d.com/",
     "icon": "https://icons.duckduckgo.com/ip3/roundtable.researchx3d.com.ico",
     "slug": "roundtable",
-    "status": "up",
+    "status": "degraded",
     "uptime": "97.34%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.48%",
-    "time": 1015,
-    "timeDay": 562,
-    "timeWeek": 444,
-    "timeMonth": 451,
-    "timeYear": 653,
+    "time": 1018,
+    "timeDay": 1720,
+    "timeWeek": 748,
+    "timeMonth": 527,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2025-09-22": 20,
       "2025-10-07": 26,
@@ -223,7 +228,8 @@
       "2026-03-09": 1440,
       "2026-03-08": 1440,
       "2026-03-07": 1440,
-      "2026-03-06": 1176
+      "2026-03-06": 1176,
+      "2026-06-18": 0
     }
   }
 ]
