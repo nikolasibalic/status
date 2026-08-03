@@ -33,10 +33,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
     "status": "down",
-    "uptime": "97.97%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "71.52%",
-    "uptimeMonth": "90.91%",
+    "uptime": "97.96%",
+    "uptimeDay": "90.82%",
+    "uptimeWeek": "70.35%",
+    "uptimeMonth": "90.65%",
     "uptimeYear": "97.45%",
     "time": 941,
     "timeDay": 369,
@@ -79,7 +79,7 @@
       "2026-08-01": 838,
       "2026-07-31": 1440,
       "2026-07-30": 144,
-      "2026-08-03": 15
+      "2026-08-03": 132
     }
   },
   {
@@ -89,9 +89,9 @@
     "slug": "science-web-services-q-state",
     "status": "down",
     "uptime": "97.83%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "71.76%",
-    "uptimeMonth": "90.71%",
+    "uptimeDay": "91.16%",
+    "uptimeWeek": "70.59%",
+    "uptimeMonth": "90.44%",
     "uptimeYear": "97.43%",
     "time": 899,
     "timeDay": 485,
@@ -134,7 +134,7 @@
       "2026-08-01": 838,
       "2026-07-31": 1440,
       "2026-07-30": 139,
-      "2026-08-03": 10
+      "2026-08-03": 127
     }
   },
   {
@@ -143,10 +143,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/researchx3d.com.ico",
     "slug": "research-x3-d",
     "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "72.00%",
-    "uptimeMonth": "90.61%",
+    "uptime": "98.40%",
+    "uptimeDay": "91.49%",
+    "uptimeWeek": "70.83%",
+    "uptimeMonth": "90.35%",
     "uptimeYear": "97.47%",
     "time": 891,
     "timeDay": 661,
@@ -185,7 +185,7 @@
       "2026-08-01": 838,
       "2026-07-31": 1440,
       "2026-07-30": 134,
-      "2026-08-03": 5
+      "2026-08-03": 123
     }
   },
   {
@@ -194,10 +194,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.carteevent.com.ico",
     "slug": "carte-event",
     "status": "down",
-    "uptime": "98.86%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "72.24%",
-    "uptimeMonth": "90.98%",
+    "uptime": "98.85%",
+    "uptimeDay": "91.83%",
+    "uptimeWeek": "71.07%",
+    "uptimeMonth": "90.71%",
     "uptimeYear": "97.49%",
     "time": 772,
     "timeDay": 433,
@@ -234,7 +234,7 @@
       "2026-08-01": 838,
       "2026-07-31": 1440,
       "2026-07-30": 129,
-      "2026-08-03": 0
+      "2026-08-03": 118
     }
   },
   {
