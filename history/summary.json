@@ -90,16 +90,16 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "down",
-    "uptime": "97.93%",
-    "uptimeDay": "60.32%",
-    "uptimeWeek": "91.51%",
-    "uptimeMonth": "88.43%",
-    "uptimeYear": "97.50%",
+    "status": "up",
+    "uptime": "97.92%",
+    "uptimeDay": "48.72%",
+    "uptimeWeek": "89.85%",
+    "uptimeMonth": "88.05%",
+    "uptimeYear": "97.47%",
     "time": 908,
-    "timeDay": 516,
-    "timeWeek": 621,
-    "timeMonth": 635,
+    "timeDay": 592,
+    "timeWeek": 630,
+    "timeMonth": 637,
     "timeYear": 816,
     "dailyMinutesDown": {
       "2025-09-07": 17,
@@ -140,7 +140,7 @@
       "2026-08-09": 151,
       "2026-08-10": 46,
       "2026-08-14": 114,
-      "2026-08-15": 544
+      "2026-08-15": 712
     }
   },
   {
