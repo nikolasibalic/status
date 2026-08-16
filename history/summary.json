@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 1137,
-    "timeDay": 936,
+    "timeDay": 0,
     "timeWeek": 1049,
     "timeMonth": 1108,
-    "timeYear": 1189,
+    "timeYear": 1190,
     "dailyMinutesDown": {
       "2025-08-18": 47,
       "2025-08-19": 17,
@@ -32,17 +32,17 @@
     "url": "https://labbricks.com",
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
-    "status": "up",
+    "status": "down",
     "uptime": "97.95%",
-    "uptimeDay": "98.03%",
-    "uptimeWeek": "92.27%",
-    "uptimeMonth": "88.21%",
-    "uptimeYear": "97.51%",
-    "time": 955,
-    "timeDay": 531,
+    "uptimeDay": "97.04%",
+    "uptimeWeek": "92.12%",
+    "uptimeMonth": "88.17%",
+    "uptimeYear": "97.50%",
+    "time": 956,
+    "timeDay": 548,
     "timeWeek": 504,
     "timeMonth": 501,
-    "timeYear": 888,
+    "timeYear": 889,
     "dailyMinutesDown": {
       "2025-09-07": 17,
       "2025-10-05": 45,
@@ -83,7 +83,7 @@
       "2026-08-10": 51,
       "2026-08-14": 124,
       "2026-08-15": 577,
-      "2026-08-16": 28
+      "2026-08-16": 43
     }
   },
   {
@@ -91,17 +91,17 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "87.94%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "90.79%",
+    "uptimeMonth": "87.92%",
     "uptimeYear": "97.46%",
-    "time": 910,
-    "timeDay": 651,
+    "time": 911,
+    "timeDay": 716,
     "timeWeek": 651,
     "timeMonth": 632,
-    "timeYear": 816,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-09-07": 17,
       "2025-10-05": 44,
@@ -142,7 +142,7 @@
       "2026-08-10": 46,
       "2026-08-14": 114,
       "2026-08-15": 735,
-      "2026-08-16": 23
+      "2026-08-16": 33
     }
   },
   {
@@ -150,14 +150,14 @@
     "url": "https://researchx3d.com",
     "icon": "https://icons.duckduckgo.com/ip3/researchx3d.com.ico",
     "slug": "research-x3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "98.70%",
-    "uptimeWeek": "92.84%",
-    "uptimeMonth": "88.32%",
+    "uptimeDay": "98.38%",
+    "uptimeWeek": "92.79%",
+    "uptimeMonth": "88.31%",
     "uptimeYear": "97.54%",
     "time": 901,
-    "timeDay": 788,
+    "timeDay": 888,
     "timeWeek": 739,
     "timeMonth": 757,
     "timeYear": 822,
@@ -197,7 +197,7 @@
       "2026-08-10": 41,
       "2026-08-14": 104,
       "2026-08-15": 557,
-      "2026-08-16": 18
+      "2026-08-16": 23
     }
   },
   {
@@ -205,14 +205,14 @@
     "url": "https://www.carteevent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carteevent.com.ico",
     "slug": "carte-event",
-    "status": "up",
+    "status": "down",
     "uptime": "98.80%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "93.37%",
-    "uptimeMonth": "88.62%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "93.50%",
+    "uptimeMonth": "88.65%",
     "uptimeYear": "97.57%",
-    "time": 780,
-    "timeDay": 528,
+    "time": 781,
+    "timeDay": 547,
     "timeWeek": 496,
     "timeMonth": 503,
     "timeYear": 739,
@@ -251,7 +251,7 @@
       "2026-08-10": 37,
       "2026-08-14": 94,
       "2026-08-15": 524,
-      "2026-08-16": 13
+      "2026-08-16": 0
     }
   },
   {
@@ -266,10 +266,10 @@
     "uptimeMonth": "99.78%",
     "uptimeYear": "98.42%",
     "time": 1587,
-    "timeDay": 418,
+    "timeDay": 0,
     "timeWeek": 474,
     "timeMonth": 558,
-    "timeYear": 660,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2025-09-22": 20,
       "2025-10-07": 26,
