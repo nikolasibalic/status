@@ -30,13 +30,13 @@
     "url": "https://labbricks.com",
     "icon": "https://icons.duckduckgo.com/ip3/labbricks.com.ico",
     "slug": "lab-bricks",
-    "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "93.33%",
-    "uptimeMonth": "89.24%",
+    "status": "down",
+    "uptime": "97.97%",
+    "uptimeDay": "98.97%",
+    "uptimeWeek": "94.85%",
+    "uptimeMonth": "89.21%",
     "uptimeYear": "97.49%",
-    "time": 958,
+    "time": 959,
     "timeDay": 552,
     "timeWeek": 507,
     "timeMonth": 494,
@@ -83,7 +83,8 @@
       "2026-08-15": 577,
       "2026-08-16": 43,
       "2026-08-17": 23,
-      "2026-08-18": 30
+      "2026-08-18": 30,
+      "2026-08-22": 15
     }
   },
   {
@@ -91,11 +92,11 @@
     "url": "https://sws.labbricks.com/qstate/",
     "icon": "https://icons.duckduckgo.com/ip3/sws.labbricks.com.ico",
     "slug": "science-web-services-q-state",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "92.06%",
-    "uptimeMonth": "88.98%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "93.58%",
+    "uptimeMonth": "88.95%",
     "uptimeYear": "97.45%",
     "time": 912,
     "timeDay": 691,
@@ -144,7 +145,8 @@
       "2026-08-15": 735,
       "2026-08-16": 23,
       "2026-08-17": 18,
-      "2026-08-18": 25
+      "2026-08-18": 25,
+      "2026-08-22": 10
     }
   },
   {
@@ -152,13 +154,13 @@
     "url": "https://researchx3d.com",
     "icon": "https://icons.duckduckgo.com/ip3/researchx3d.com.ico",
     "slug": "research-x3-d",
-    "status": "up",
+    "status": "down",
     "uptime": "98.35%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.09%",
-    "uptimeMonth": "89.63%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "89.62%",
     "uptimeYear": "97.53%",
-    "time": 903,
+    "time": 904,
     "timeDay": 764,
     "timeWeek": 783,
     "timeMonth": 760,
@@ -200,7 +202,8 @@
       "2026-08-14": 104,
       "2026-08-15": 557,
       "2026-08-16": 18,
-      "2026-08-18": 20
+      "2026-08-18": 20,
+      "2026-08-22": 5
     }
   },
   {
@@ -208,13 +211,13 @@
     "url": "https://www.carteevent.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.carteevent.com.ico",
     "slug": "carte-event",
-    "status": "up",
+    "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.65%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.18%",
     "uptimeMonth": "89.95%",
     "uptimeYear": "97.57%",
-    "time": 783,
+    "time": 784,
     "timeDay": 543,
     "timeWeek": 496,
     "timeMonth": 493,
@@ -254,7 +257,8 @@
       "2026-08-10": 37,
       "2026-08-14": 94,
       "2026-08-15": 524,
-      "2026-08-18": 15
+      "2026-08-18": 15,
+      "2026-08-22": 0
     }
   },
   {
