@@ -4,24 +4,25 @@
     "url": "https://atomcalc.org",
     "icon": "https://icons.duckduckgo.com/ip3/atomcalc.org.ico",
     "slug": "atom-calculator",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.43%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.32%",
     "uptimeYear": "99.77%",
-    "time": 1202,
-    "timeDay": 895,
-    "timeWeek": 1137,
-    "timeMonth": 1449,
-    "timeYear": 1089,
+    "time": 1239,
+    "timeDay": 10288,
+    "timeWeek": 3455,
+    "timeMonth": 2019,
+    "timeYear": 1138,
     "dailyMinutesDown": {
       "2025-11-18": 128,
       "2025-11-20": 17,
       "2026-02-25": 57,
       "2026-06-18": 194,
       "2026-07-08": 96,
-      "2026-09-30": 735
+      "2026-09-30": 735,
+      "2026-10-21": 0
     }
   },
   {
